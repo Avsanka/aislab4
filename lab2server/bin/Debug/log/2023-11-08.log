@@ -1,0 +1,74 @@
+2023-11-08 10:07:16.1894 INFO All records were successfully shown
+2023-11-08 10:07:23.5070 INFO Record was added successful
+2023-11-08 10:07:26.1990 INFO All records were successfully shown
+2023-11-08 10:09:57.4004 INFO All records were successfully deleted
+2023-11-08 10:10:04.3132 INFO Record was added successful
+2023-11-08 10:10:06.2487 INFO All records were successfully shown
+2023-11-08 10:10:16.0835 INFO Record was added successful
+2023-11-08 10:10:18.0776 INFO All records were successfully shown
+2023-11-08 10:27:32.9870 INFO Record was added successful
+2023-11-08 10:27:37.6660 INFO All records were successfully shown
+2023-11-08 10:31:04.1432 INFO All records were successfully shown
+2023-11-08 10:31:30.9642 INFO All records were successfully shown
+2023-11-08 10:32:20.6996 INFO All records were successfully shown
+2023-11-08 10:33:00.8717 INFO All records were successfully shown
+2023-11-08 10:37:33.7805 ERROR Recieved unappropriate data or empty string from user
+2023-11-08 10:38:40.3002 ERROR Recieved unappropriate data or empty string from user
+2023-11-08 10:38:46.8793 ERROR Recieved unappropriate data or empty string from user
+2023-11-08 10:39:17.8832 ERROR Recieved unappropriate data or empty string from user
+2023-11-08 10:39:45.9492 INFO Record was added successful
+2023-11-08 10:39:47.8822 INFO All records were successfully shown
+2023-11-08 10:40:09.2246 INFO Record was added successful
+2023-11-08 10:40:41.8719 INFO All records were successfully shown
+2023-11-08 10:50:23.7737 INFO All records were successfully shown
+2023-11-08 10:56:44.1392 INFO Record was added successful
+2023-11-08 10:56:46.3986 ERROR Recieved unknown command
+2023-11-08 10:56:48.4027 INFO All records were successfully shown
+2023-11-08 10:57:52.2800 INFO Record was added successful
+2023-11-08 10:57:54.1388 INFO All records were successfully shown
+2023-11-08 10:59:39.5953 INFO All records were successfully shown
+2023-11-08 10:59:42.4620 ERROR Record number out of range or not exist
+2023-11-08 10:59:46.3709 ERROR Record number out of range or not exist
+2023-11-08 11:00:42.1947 INFO 1 record was deleted successful
+2023-11-08 11:00:47.6135 INFO All records were successfully shown
+2023-11-08 11:01:20.7403 INFO 1 record was deleted successful
+2023-11-08 11:01:22.4410 INFO All records were successfully shown
+2023-11-08 11:01:30.5689 INFO 1 record was deleted successful
+2023-11-08 11:01:34.1014 INFO All records were successfully shown
+2023-11-08 11:01:37.3981 INFO 1 record was deleted successful
+2023-11-08 11:01:39.0433 INFO All records were successfully shown
+2023-11-08 11:01:42.1593 INFO 1 record was deleted successful
+2023-11-08 11:01:43.8541 INFO 1 record was deleted successful
+2023-11-08 11:01:45.4448 INFO All records were successfully shown
+2023-11-08 11:01:46.9534 ERROR Record number out of range or not exist
+2023-11-08 11:01:50.7347 ERROR Record number out of range or not exist
+2023-11-08 11:02:12.9776 INFO Record was added successful
+2023-11-08 11:02:20.8419 INFO Record was added successful
+2023-11-08 11:02:23.4616 INFO All records were successfully shown
+2023-11-08 11:02:49.0056 INFO 1 record was deleted successful
+2023-11-08 11:02:50.8383 INFO All records were successfully shown
+2023-11-08 11:07:47.1057 INFO All records were successfully shown
+2023-11-08 11:07:56.3752 INFO Record was added successful
+2023-11-08 11:08:04.4338 INFO Record was added successful
+2023-11-08 11:08:11.3047 INFO Record was added successful
+2023-11-08 11:08:13.2662 INFO All records were successfully shown
+2023-11-08 11:08:18.8515 ERROR User command hasn't number of record or number was out of range
+2023-11-08 11:08:21.7298 INFO Record number 1 was successfully shown
+2023-11-08 11:08:53.8826 INFO All records were successfully shown
+2023-11-08 11:08:56.3650 INFO All records were successfully shown
+2023-11-08 11:09:02.9552 ERROR Record number out of range or not exist
+2023-11-08 11:09:05.9673 INFO All records were successfully shown
+2023-11-08 11:09:10.6627 INFO Record number 1 was successfully shown
+2023-11-08 11:09:13.2553 INFO Record number 7 was successfully shown
+2023-11-08 11:09:15.6166 INFO Record number 8 was successfully shown
+2023-11-08 11:09:17.8030 INFO Record number 9 was successfully shown
+2023-11-08 11:09:20.0096 ERROR User command hasn't number of record or number was out of range
+2023-11-08 11:09:22.5921 INFO Record number 100 was successfully shown
+2023-11-08 11:09:25.4780 ERROR User command hasn't number of record or number was out of range
+2023-11-08 11:09:28.6902 ERROR User command hasn't number of record or number was out of range
+2023-11-08 11:09:31.4571 ERROR User command hasn't number of record or number was out of range
+2023-11-08 11:09:35.9695 ERROR Record number out of range or not exist
+2023-11-08 11:09:38.2738 INFO 1 record was deleted successful
+2023-11-08 11:09:41.7847 INFO All records were successfully shown
+2023-11-08 12:05:58.3169 INFO All records were successfully shown
+2023-11-08 12:07:32.4021 INFO All records were successfully shown

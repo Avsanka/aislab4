@@ -1,0 +1,33 @@
+2023-11-04 22:09:44.6422 INFO Record was added successful
+2023-11-04 22:09:49.8653 ERROR Recieved unknown command
+2023-11-04 22:09:52.5080 ERROR Recieved unappropriate data or empty string from user
+2023-11-04 22:10:05.9193 ERROR Recieved unappropriate data or empty string from user
+2023-11-04 22:10:20.0325 INFO All records were successfully shown
+2023-11-04 22:10:37.4964 INFO Record was added successful
+2023-11-04 22:10:44.2208 INFO Record was added successful
+2023-11-04 22:10:50.2107 INFO All records were successfully shown
+2023-11-04 22:12:10.4411 INFO Record number 1 was successfully shown
+2023-11-04 22:12:17.5501 INFO Record number 2 was successfully shown
+2023-11-04 22:12:23.6102 ERROR User command hasn't number of record or number was out of range
+2023-11-04 22:12:38.6449 ERROR User command hasn't number of record or number was out of range
+2023-11-04 22:12:46.8212 ERROR User command hasn't number of record or number was out of range
+2023-11-04 22:12:49.5900 ERROR Recieved unknown command
+2023-11-04 22:13:00.8839 INFO All records were successfully shown
+2023-11-04 22:13:06.6342 INFO 1 record was deleted successful
+2023-11-04 22:13:14.8330 INFO All records were successfully shown
+2023-11-04 22:13:24.2848 INFO 1 record was deleted successful
+2023-11-04 22:13:26.2336 INFO All records were successfully shown
+2023-11-04 22:13:56.6643 ERROR Recieved unknown command
+2023-11-04 22:14:04.8487 ERROR Record number out of range
+2023-11-04 22:14:12.6650 ERROR Record number out of range
+2023-11-04 22:15:29.7521 ERROR User command hasn't number of record or number was out of range
+2023-11-04 22:16:28.9485 ERROR Recieved unknown command
+2023-11-04 22:16:33.3966 ERROR User command hasn't number of record or number was out of range
+2023-11-04 22:16:40.1431 ERROR Recieved unknown command
+2023-11-04 22:16:42.5217 ERROR Recieved unknown command
+2023-11-04 22:17:21.5215 ERROR Record number out of range
+2023-11-04 22:17:25.7432 ERROR Record number out of range
+2023-11-04 22:17:27.8685 ERROR Record number out of range
+2023-11-04 22:17:31.9423 ERROR Record number out of range
+2023-11-04 22:17:34.9229 ERROR Record number out of range
+2023-11-04 22:17:37.2586 INFO 1 record was deleted successful
